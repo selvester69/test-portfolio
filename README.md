@@ -179,7 +179,7 @@ This refactoring allows users to update all content through the JSON file withou
 
 
 
-```ts file="lib/projects.ts"
+\`\`\`ts file="lib/projects.ts"
 [v0-no-op-code-block-prefix]export interface ProjectGalleryImage {
   url: string
   caption?: string
